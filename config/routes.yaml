@@ -1,0 +1,7 @@
+accueil:
+    path: /accueil
+    controller: App\Controller\AccueilController::index
+
+reservation:
+    path: /reservation
+    controller: App\Controller\ReservationController::resa
